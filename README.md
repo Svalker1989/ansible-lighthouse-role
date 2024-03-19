@@ -1,7 +1,7 @@
 Lighthouse
 =========
 
-This role can install and configure [Lighthouse](https://github.com/VKCOM/lighthouse.git) on Centos 8
+This role can install and configure [Lighthouse](https://github.com/VKCOM/lighthouse.git) on Debian 11
 
 Requirements
 ------------
